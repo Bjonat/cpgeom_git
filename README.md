@@ -21,3 +21,5 @@ nano README.md
 ```
 
 Ajout test
+git push -u origin main
+git status -sb; git remote -v

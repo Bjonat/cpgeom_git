@@ -19,3 +19,5 @@ cd 00-git-local
 touch README.md
 nano README.md
 ```
+
+bonjour ceci est une modifcation.

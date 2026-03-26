@@ -1,6 +1,6 @@
 # Découverte de GIT
 
-![Texte alternatif](/img/git.png "Logo GIT")
+![LOGO GIT](/img/git.png "Logo GIT")
 
 Prise en main de GIT
 

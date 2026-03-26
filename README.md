@@ -19,5 +19,3 @@ cd 00-git-local
 touch README.md
 nano README.md
 ```
-
-Ajout test

@@ -1,5 +1,7 @@
 # Découverte de GIT
 
+![Texte alternatif](/img/git.png "Logo GIT")
+
 Prise en main de GIT
 
 ## Démonstration  
